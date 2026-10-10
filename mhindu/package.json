@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@ai-sdk/gateway": "^3.0.110",
-    "ai": "^6.0.175",
+    "ai": "^7.0.131",
     "browser-image-compression": "^2.0.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
