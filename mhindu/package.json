@@ -14,7 +14,7 @@
     "db:check": "tsx scripts/check-migrations.ts"
   },
   "dependencies": {
-    "@ai-sdk/gateway": "^3.0.110",
+    "@ai-sdk/gateway": "^4.0.107",
     "ai": "^6.0.175",
     "browser-image-compression": "^2.0.2",
     "class-variance-authority": "^0.7.1",
